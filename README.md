@@ -25,7 +25,7 @@ This project visualizes customer purchase trends and business insights using Pyt
 
 - VIP customers in the UK are the highest spenders
 - Revenue peaks in Nov–Dec
-- Product X consistently tops sales
+- Product "White Hanging Heart T-Light Holder" consistently tops sales
 
 ---
 
