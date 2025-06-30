@@ -15,7 +15,7 @@ This project visualizes customer purchase trends and business insights using Pyt
 - `Online Retail.xlsx`: Raw dataset (Excel)
 - `images/`: Contains visualizations used in LinkedIn post
 
-## 🛠Tools Used
+## Tools Used
 
 - Python, Pandas, Seaborn, Matplotlib
 - Jupyter Notebook
@@ -29,4 +29,5 @@ This project visualizes customer purchase trends and business insights using Pyt
 
 ---
 
-📌 [Connect with me on LinkedIn](https://www.linkedin.com/in/ibadullah-hayat/) for collaboration or opportunities!
+[Connect with me on LinkedIn](https://www.linkedin.com/in/ibadullah-hayat/) for collaboration or opportunities!
+Gmail: ibaduh14gmail.com
